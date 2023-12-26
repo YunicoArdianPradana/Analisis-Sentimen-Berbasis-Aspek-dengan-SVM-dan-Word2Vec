@@ -7,7 +7,7 @@ dilakukan dengan fokus pada kata kunci dengan persentase terbesar pada setiap as
 2. Data diklasifikasikan kedalam sentimen positif dan negatif
 
 ## Tahapan Penelitian
-![image](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/assets/52398109/d8ef7c4a-61b6-4a44-b4cc-323c7fd011f2)
+![image](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/blob/master/Diagram%20Alir%20Penelitian.png)
 
 ## Sumber Data
 Data yang digunakan pada penelitian ini bersumber dari ulasan aplikasi Polri Super App di [Google Play](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/blob/master/Data_Fix.xlsx)
