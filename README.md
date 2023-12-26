@@ -6,15 +6,17 @@ dilakukan dengan fokus pada kata kunci dengan persentase terbesar pada setiap as
 1. Aspek yang digunakan adalah layanan, sistem dan kebermanfaatan
 2. Data diklasifikasikan kedalam sentimen positif dan negatif
 
+## Tahapan Penelitian
+![image](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/assets/52398109/d8ef7c4a-61b6-4a44-b4cc-323c7fd011f2)
+
 ## Sumber Data
 Data yang digunakan pada penelitian ini bersumber dari ulasan aplikasi Polri Super App di [Google Play](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/blob/master/Data_Fix.xlsx)
 yang berjumlah 2000 data dengan teknik web scrapping. Data tersebut nantinya digunakan sebagai data training sedangkan untuk proses Generalisasi menggunakan [data generate](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/blob/master/Data%20Generate%201000.xlsx) sejumlah 1000 data untuk mengetahui kemampuan algoritma SVM dalam klasifikasi sentimen dan aspek.
 
 ## Penjelasan File
-- AnalisisSentimen.ipynb: file python yang digunakan untuk proses analisis sentimen 
-- /streamlit: berisi file python dengan nama visualisasi.py untuk menjalankan streamlit
-- Proyek_Analisis_Data.ipynb: file ipynb yang digunakan untuk proses Exploratory Data Analysis untuk menjawab berbagai pertanyaan bisnis diatas
-
+- AnalisisSentimen.ipynb: File python yang digunakan untuk proses analisis sentimen 
+- Data Generate 1000.xlsx: Data yang digunakan untuk proses generalisasi data
+- Data_Fix.xlsx: Data yang digunakan untuk proses training 
 
 ## Kontak
 Jika Anda memiliki pertanyaan, hubungi ke email: yunicoardian123@gmail.com
