@@ -1,23 +1,23 @@
-# Analisis Sentimen Berbasis Aspek dengan Support Vector Machine dan Word2Vec
-Project ini dilakukan untuk mengevaluasi Ulasan Aplikasi Polri Super App dengan mengimplementasikan algoritma *Support Vector Machine* dan *Word2Vec*. Analisis 
-dilakukan dengan fokus pada kata kunci dengan persentase terbesar pada setiap aspek, dan kesimpulan dari analisis ini digunakan untuk menilai apakah penelitian telah memenuhi tujuan dan kriteria yang ditetapkan 
+# Aspect-based Sentiment Analysis with Support Vector Machine and Word2Vec
+This project was conducted to evaluate the Police Super App Reviews by implementing the *Support Vector Machine* and *Word2Vec* algorithms. Analysis of 
+analysis was conducted by focusing on the keywords with the largest percentage in each aspect, and the conclusions from this analysis were used to assess whether the research had met the objectives and criteria set. 
 
-## Batasan Peneltian
-1. Aspek yang digunakan adalah layanan, sistem dan kebermanfaatan
-2. Data diklasifikasikan kedalam sentimen positif dan negatif
+## Research Limitations
+1. The aspects used are service, system and usefulness.
+2. The data is classified into positive and negative sentiments 
 
 ## Tahapan Penelitian
 ![image](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/blob/master/Diagram%20Alir%20Penelitian.png)
 
-## Sumber Data
-Data yang digunakan pada penelitian ini bersumber dari ulasan aplikasi Polri Super App di [Google Play](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/blob/master/Data_Fix.xlsx)
-yang berjumlah 2000 data dengan teknik web scrapping. Data tersebut nantinya digunakan sebagai data training sedangkan untuk proses Generalisasi menggunakan [data generate](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/blob/master/Data%20Generate%201000.xlsx) sejumlah 1000 data untuk mengetahui kemampuan algoritma SVM dalam klasifikasi sentimen dan aspek.
+## Data Source
+The data used in this study were sourced from reviews of the Polri Super App application in [Google Play](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/blob/master/Data_Fix.xlsx)
+which totalled 2000 data with web scrapping technique. The data is later used as training data while the Generalisation process uses [data generate](https://github.com/YunicoArdianPradana/Analisis-Sentimen-Berbasis-Aspek-dengan-SVM-dan-Word2Vec/blob/master/Data%20Generate%201000.xlsx) 1000 data to determine the ability of SVM algorithm in sentiment and aspect classification.
 
 ## Penjelasan File
-- AnalisisSentimen.ipynb: File python yang digunakan untuk proses analisis sentimen 
-- Data Generate 1000.xlsx: Data yang digunakan untuk proses generalisasi data
-- Data_Fix.xlsx: Data yang digunakan untuk proses training 
+- AnalisisSentimen.ipynb: Python files used for sentiment analysis process 
+- Data Generate 1000.xlsx: Data used for the data generalisation process
+- Data_Fix.xlsx: Data used for the training process 
 
 ## Kontak
-Jika Anda memiliki pertanyaan, hubungi ke email: yunicoardian123@gmail.com
+If you have any questions, get in touch by email: yunicoardian123@gmail.com
 
